@@ -1,1 +1,5 @@
+
  will merge this with new content
+
+ This is file 1 which i'm trying to add
+
