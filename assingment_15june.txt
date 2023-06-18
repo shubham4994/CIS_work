@@ -2,4 +2,5 @@
  will merge this with new content
 
  This is file 1 which i'm trying to add
+Will try Rebase command updated this file first
 
